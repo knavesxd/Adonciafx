@@ -18,5 +18,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ### 📫 &nbsp; How to reach me:
-<a href="https://discord.com/users/327236967265861633"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/acarfx"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://discord.com/users/972398070492987444"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
