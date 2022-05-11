@@ -1,4 +1,4 @@
-### Hello I'm Muhammed Yılmaz
+### Hello I'm Muhammed Yılmaz <img src = "https://cdn.discordapp.com/emojis/920791355196833852.png?v=1" high="20px" width="30px">
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Adonciafx&color=red)&nbsp;
 [![GitHub acarfx](https://img.shields.io/github/followers/Adonciafx?label=follow&style=social)](https://github.com/Adonciafx)&nbsp;
