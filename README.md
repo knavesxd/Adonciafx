@@ -7,7 +7,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972398070492987444?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/972398070492987444)
 ### Spotify da Dinliyorum 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9k5p1d9or9iqs2yqkjq7b4o12&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2d32b97d36784e409c22abeb37f8e390cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
