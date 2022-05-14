@@ -5,6 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972398070492987444?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/972398070492987444)
+<br>
 ### Spotify da Dinliyorum 🎧
 [![spotify-github-profile](https://spotifygithubprofile.vercel.app/api/viewuid=88c4e1ec01fe4c54a92b80ba4da9c210&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
