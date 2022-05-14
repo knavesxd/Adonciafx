@@ -3,6 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=Adonciafx&color=red)&nbsp;
 [![GitHub acarfx](https://img.shields.io/github/followers/Adonciafx?label=follow&style=social)](https://github.com/Adonciafx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972398070492987444?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/972398070492987444)
 <br>
