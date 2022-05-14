@@ -6,8 +6,6 @@
 <br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972398070492987444?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/972398070492987444)
 <br>
-### Spotify da Dinliyorum 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5b78cf61e68e4982bb981c159920b300)]
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
