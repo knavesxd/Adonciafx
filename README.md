@@ -22,8 +22,6 @@ My Server:https://discord.gg/safecode
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ## ⚡ Contact
 <div align="center">
     <a href="https://discord.com/users/972398070492987444" target="_blank"><img src="https://shields.io/badge/Adoncia-111111.svg?&style=for-the-badge&logo=discord"></a>
