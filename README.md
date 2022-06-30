@@ -1,4 +1,4 @@
-![adoncia](https://cdn.discordapp.com/attachments/923174403741720586/985769835168411648/23e89b55919fcc6d263d21a1ed173ee6.png)
+![adoncia](https://cdn.discordapp.com/attachments/923176422242144267/923176478047358976/anime-girl-desktop-background-pictures-wallpaper-preview.jpg)
 <p align="center">
 <br>
  <a href="https://discord.com/users/975146275802599524" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
