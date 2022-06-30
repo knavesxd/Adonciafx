@@ -9,6 +9,6 @@
 </p>
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972398070492987444?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/987087764661088306)
+[![Discord Presence]()](https://discord.com/users/987087764661088306)
  </a>
 </div>
